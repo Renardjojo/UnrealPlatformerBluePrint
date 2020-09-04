@@ -1188,3 +1188,77 @@ Script call stack:
 [2020.09.04-16.21.37:897][248]AssetCheck: New page: Asset Save: multiple assets
 [2020.09.04-16.21.37:897][248]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.09.04-16.21.37:897][248]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.09.04-16.31.37:471][131]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2020.09.04-16.31.37:475][131]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.059
+[2020.09.04-16.31.37:476][131]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter] ([1] browsable assets)...
+[2020.09.04-16.31.37:482][131]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.04-16.31.37:517][131]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter.BorisPlayerCharacter]
+[2020.09.04-16.31.37:517][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter]
+[2020.09.04-16.31.37:598][131]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/BorisPlayerCharacter_Auto1FDFF5D4D437F08BCC405469A4755E677.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Autosaves/Game/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter_Auto1.uasset'
+[2020.09.04-16.31.37:600][131]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Zone/CheckPoint/CheckPoint] ([1] browsable assets)...
+[2020.09.04-16.31.37:600][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Zone/CheckPoint/CheckPoint]
+[2020.09.04-16.31.37:622][131]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/CheckPoint_Auto16F7905614D664C8BA3752EB36D190951.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Zone/CheckPoint/CheckPoint_Auto1.uasset'
+[2020.09.04-16.31.37:624][131]LogFileHelpers: Auto-saving content packages took 0.149
+[2020.09.04-16.36.14:707][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.04-16.36.14:746][ 29]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.04-16.36.14:746][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.04-16.36.14:747][ 29]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 4, 2020, 8:36:14 PM)
+[2020.09.04-16.36.14:747][ 29]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.09.04-16.36.14:761][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013927s)
+[2020.09.04-16.36.14:763][ 29]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.09.04-16.36.14:763][ 29]LogPlayLevel: PIE: World Init took: (0.002484s)
+[2020.09.04-16.36.14:763][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016640s)
+[2020.09.04-16.36.14:811][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.09.04-16.36.14:812][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.04-16.36.14:812][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.04-16.36.14:812][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.04-16.36.14:812][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.04-16.36.14:812][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.04-16.36.14:812][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.04-16.36.14:812][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.04-16.36.14:812][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.04-16.36.14:813][ 29]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.04-16.36.14:813][ 29]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.04-16.36.14:820][ 29]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.04-16.36.14:821][ 29]LogAudioMixer: Display: Name: Haut-parleurs (High Definition Audio Device)
+[2020.09.04-16.36.14:821][ 29]LogAudioMixer: Display: Is Default: Yes
+[2020.09.04-16.36.14:821][ 29]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.04-16.36.14:821][ 29]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.04-16.36.14:821][ 29]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.04-16.36.14:821][ 29]LogAudioMixer: Display: Channel Order:
+[2020.09.04-16.36.14:821][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.04-16.36.14:821][ 29]LogAudioMixer: Display: 1: FrontRight
+[2020.09.04-16.36.14:835][ 29]LogAudioMixer: Display: Using Audio Device Haut-parleurs (High Definition Audio Device)
+[2020.09.04-16.36.14:837][ 29]LogInit: FAudioDevice initialized.
+[2020.09.04-16.36.14:849][ 29]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.09.04-16.36.14:851][ 29]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.04-16.36.14:852][ 29]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.09.04-18.36.14
+[2020.09.04-16.36.14:852][ 29]LogWorld: Bringing up level for play took: 0.002037
+[2020.09.04-16.36.14:853][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.09.04-16.36.14:855][ 29]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.012
+[2020.09.04-16.36.14:855][ 29]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.04-16.36.17:061][193]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.09.04-16.36.30:212][213]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-16.36.30:223][213]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.04-16.36.30:243][213]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.04-16.36.30:244][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.04-16.36.30:244][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.04-16.36.30:244][213]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.09.04-16.36.30:244][213]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-16.36.30:244][213]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.04-16.36.30:244][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-16.36.30:268][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.04-16.36.30:268][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.09.04-16.36.30:274][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.04-16.36.30:316][213]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.04-16.36.30:319][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.04-16.36.30:324][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.09.04-16.36.30:426][214]LogPlayLevel: Display: Destroying online subsystem :Context_10
