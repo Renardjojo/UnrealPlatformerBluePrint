@@ -16,10 +16,10 @@ caméra)
 - [x] Le joueur doit toujours s’orienter dans la direction vers laquelle il se déplace, il ne
 doit pas straffer ni marcher en arrière.
 
-- [ ] Les différents réglages (vitesse, saut, air control…) sont à régler afin qu’ils soient le
+- [x] Les différents réglages (vitesse, saut, air control…) sont à régler afin qu’ils soient le
 plus agréables possibles
 
-- [ ] Le joueur démarre avec 5 points de vie (tweakable dans l’éditeur
+- [ ] Le joueur démarre avec 5 points de vie (tweakable dans l’éditeur)
 
 - [ ] Le joueur pourra se débarrasser de ses ennemis en leur sautant sur la tête, et
 seulement sur la tête
