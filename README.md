@@ -19,12 +19,12 @@ doit pas straffer ni marcher en arrière.
 - [x] Les différents réglages (vitesse, saut, air control…) sont à régler afin qu’ils soient le
 plus agréables possibles
 
-- [ ] Le joueur démarre avec 5 points de vie (tweakable dans l’éditeur)
+- [x] Le joueur démarre avec 5 points de vie (tweakable dans l’éditeur)
 
-- [ ] Le joueur pourra se débarrasser de ses ennemis en leur sautant sur la tête, et
+- [x] Le joueur pourra se débarrasser de ses ennemis en leur sautant sur la tête, et
 seulement sur la tête
 
-- [ ] Le reste du temps, une collision direct avec ennemi lui infligera au moins 1 point de
+- [x] Le reste du temps, une collision direct avec ennemi lui infligera au moins 1 point de
 dégâts
 
 - [ ] Si le joueur perd tous ses points de vie, on affichera un “game over” à l’écran. Appuyer sur une touche réinitialisera le niveau.
