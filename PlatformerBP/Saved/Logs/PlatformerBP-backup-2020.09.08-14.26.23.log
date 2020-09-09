@@ -1,0 +1,1742 @@
+﻿Log file open, 09/08/20 15:57:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PlatformerBP
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.094993
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Engine.ini]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Engine.ini]
+[2020.09.08-13.57.56:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Engine.ini]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Engine.ini]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.08-13.57.56:524][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.08-13.57.56:525][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.08-13.57.56:525][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Engine.ini]
+[2020.09.08-13.57.56:525][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Engine.ini]
+[2020.09.08-13.57.56:530][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.08-13.57.56:530][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.08-13.57.56:531][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.08-13.57.56:532][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.08-13.57.56:532][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.08-13.57.56:532][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:532][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.08-13.57.56:532][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.08-13.57.56:532][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:532][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.08-13.57.56:532][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.08-13.57.56:532][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.08-13.57.56:532][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.08-13.57.56:532][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.08-13.57.56:536][  0]LogHAL: Display: Platform has ~ 32 GB [34316488704 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.08-13.57.56:536][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.08-13.57.56:536][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.08-13.57.56:536][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.08-13.57.56:537][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Scalability.ini]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.08-13.57.56:538][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Config/Windows/Engine.ini]
+[2020.09.08-13.57.56:539][  0]LogInit: Computer: ZOTAC-GP-52
+[2020.09.08-13.57.56:539][  0]LogInit: User: jsix
+[2020.09.08-13.57.56:539][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.09.08-13.57.56:539][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.08-13.57.56:539][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2020.09.08-13.57.56:539][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.08-13.57.56:539][  0]LogMemory: Process Physical Memory: 105.94 MB used, 105.95 MB peak
+[2020.09.08-13.57.56:539][  0]LogMemory: Process Virtual Memory: 99.70 MB used, 99.70 MB peak
+[2020.09.08-13.57.56:539][  0]LogMemory: Physical Memory: 5184.55 MB used,  27542.20 MB free, 32726.75 MB total
+[2020.09.08-13.57.56:539][  0]LogMemory: Virtual Memory: 5123.37 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.09.08-13.57.56:542][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.08-13.57.56:561][  0]LogInit: Using OS detected language (en-US).
+[2020.09.08-13.57.56:561][  0]LogInit: Using OS detected locale (en-US).
+[2020.09.08-13.57.56:562][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.09.08-13.57.56:790][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.08-13.57.56:823][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.08-13.57.56:823][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.08-13.57.56:990][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.08-13.57.56:990][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.09.08-13.57.56:990][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.09.08-13.57.56:990][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.08-13.57.57:050][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.09.08-13.57.57:050][  0]LogD3D11RHI:       8113/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.09.08-13.57.57:053][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.08-13.57.57:053][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.08-13.57.57:053][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.08-13.57.57:062][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.08-13.57.57:062][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.08-13.57.57:062][  0]LogWindows: EnumDisplayDevices:
+[2020.09.08-13.57.57:062][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.09.08-13.57.57:062][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.09.08-13.57.57:063][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.09.08-13.57.57:063][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.09.08-13.57.57:063][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.09.08-13.57.57:063][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.09.08-13.57.57:063][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2020.09.08-13.57.57:063][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2020.09.08-13.57.57:064][  0]LogRHI: Texture pool is 5679 MB (70% of 8113 MB)
+[2020.09.08-13.57.57:111][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.09.08-13.57.57:111][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.08-13.57.57:168][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.09.08-13.57.57:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.09.08-13.57.57:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.09.08-13.57.57:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.09.08-13.57.57:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.09.08-13.57.57:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.09.08-13.57.57:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.09.08-13.57.57:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.09.08-13.57.57:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.09.08-13.57.57:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.09.08-13.57.57:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.09.08-13.57.57:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.08-13.57.57:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.09.08-13.57.57:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.09.08-13.57.57:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.09.08-13.57.57:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.09.08-13.57.57:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.08-13.57.57:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.09.08-13.57.57:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.09.08-13.57.57:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.09.08-13.57.57:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.09.08-13.57.57:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.09.08-13.57.57:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.08-13.57.57:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.09.08-13.57.57:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.09.08-13.57.57:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.09.08-13.57.57:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.09.08-13.57.57:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.09.08-13.57.57:691][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.09.08-13.57.57:691][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.09.08-13.57.57:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.09.08-13.57.57:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.09.08-13.57.57:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.08-13.57.57:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.09.08-13.57.57:740][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.09.08-13.57.57:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.09.08-13.57.57:750][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.08-13.57.57:753][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.08-13.57.57:784][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Intermediate/Shaders/WorkingDirectory/6836/).
+[2020.09.08-13.57.57:784][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/j.six/AppData/Local/Temp/UnrealShaderWorkingDir/3763DB414AA88740B89C07AF30A2C998/'.
+[2020.09.08-13.57.57:785][  0]LogXGEController: Cleaning working directory: C:/Users/j.six/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.09.08-13.57.57:785][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.08-13.57.57:785][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.08-13.57.57:785][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.08-13.57.58:734][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.08-13.57.58:798][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/j.six/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.09.08-13.57.58:798][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/j.six/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.09.08-13.57.58:798][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.08-13.57.58:799][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.08-13.57.58:799][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.08-13.57.58:799][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.08-13.57.58:813][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.08-13.57.58:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.08-13.57.58:813][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.08-13.57.58:814][  0]LogDerivedDataCache: Using Local data cache path C:/Users/j.six/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.08-13.57.58:814][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.08-13.57.58:814][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.08-13.57.58:847][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.09.08-13.57.58:851][  0]LogSlate: Using FreeType 2.10.0
+[2020.09.08-13.57.58:851][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.08-13.57.58:915][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2020.09.08-13.57.59:290][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.08-13.57.59:492][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.08-13.57.59:492][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.08-13.57.59:492][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.08-13.57.59:492][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.08-13.57.59:492][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.08-13.57.59:508][  0]LogNetVersion: PlatformerBP 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 4199003615)
+[2020.09.08-13.58.00:793][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.046160 seconds
+[2020.09.08-13.58.00:802][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.09.08-13.58.00:802][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.09.08-13.58.00:802][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.08-13.58.01:288][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.08-13.58.01:291][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.08-13.58.01:347][  0]SourceControl: Source control is disabled
+[2020.09.08-13.58.01:347][  0]SourceControl: Source control is disabled
+[2020.09.08-13.58.01:348][  0]SourceControl: Source control is disabled
+[2020.09.08-13.58.01:349][  0]SourceControl: Source control is disabled
+[2020.09.08-13.58.01:350][  0]SourceControl: Source control is disabled
+[2020.09.08-13.58.01:441][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.08-13.58.01:452][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.08-13.58.01:453][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.08-13.58.01:559][  0]LogOcInput: OculusInput pre-init called
+[2020.09.08-13.58.01:568][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.08-13.58.01:568][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.08-13.58.01:653][  0]LogEngine: Initializing Engine...
+[2020.09.08-13.58.01:654][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.08-13.58.01:655][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.08-13.58.02:081][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.08-13.58.02:088][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.08-13.58.02:114][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.08-13.58.02:115][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.08-13.58.02:115][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.08-13.58.02:115][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.08-13.58.02:115][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.08-13.58.02:115][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.08-13.58.02:115][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.08-13.58.02:115][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.08-13.58.02:115][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.08-13.58.02:115][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.08-13.58.02:121][  0]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.08-13.58.02:126][  0]LogInit: FAudioDevice initialized.
+[2020.09.08-13.58.02:127][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.08-13.58.02:203][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/j.six/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.09.08-13.58.02:211][  0]LogInit: Texture streaming: Enabled
+[2020.09.08-13.58.02:222][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.08-13.58.02:222][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={F932A2BC-481A-BB0E-3EDA-19BD8C5054FC}
+[2020.09.08-13.58.02:222][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.08-13.58.02:224][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.08-13.58.02:290][  0]LogInit: Transaction tracking system initialized
+[2020.09.08-13.58.02:301][  0]BlueprintLog: New page: Editor Load
+[2020.09.08-13.58.02:337][  0]LocalizationService: Localization service is disabled
+[2020.09.08-13.58.02:669][  0]LogFileCache: Scanning file cache for directory 'C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/' took 0.01s
+[2020.09.08-13.58.02:669][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.08-13.58.02:669][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.08-13.58.03:467][  0]SourceControl: Source control is disabled
+[2020.09.08-13.58.03:467][  0]Cmd: MAP LOAD FILE="../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.08-13.58.03:467][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.09.08-13.58.03:467][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.08-13.58.03:467][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2020.09.08-13.58.03:467][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.001
+[2020.09.08-13.58.03:631][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-13.58.03:640][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-13.58.03:649][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-13.58.03:657][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-13.58.03:664][  0]LogCollectionManager: Loaded 0 collections in 0.002264 seconds
+[2020.09.08-13.58.03:679][  0]LogFileCache: Scanning file cache for directory 'C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Collections/' took 0.00s
+[2020.09.08-13.58.03:679][  0]LogFileCache: Scanning file cache for directory 'C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/Developers/jsix/Collections/' took 0.00s
+[2020.09.08-13.58.03:679][  0]LogFileCache: Scanning file cache for directory 'C:/Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/Collections/' took 0.00s
+[2020.09.08-13.58.03:679][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 3017 classes and 720 folders.
+[2020.09.08-13.58.03:682][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.08-13.58.03:744][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.08-13.58.03:843][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.08-13.58.03:846][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.08-13.58.03:850][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.08-13.58.03:939][  0]LogRenderer: Reallocating scene render targets to support 888x548 Format 10 NumSamples 1 (Frame:1).
+[2020.09.08-13.58.04:028][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.09.08-13.58.04:028][  0]LogLoad: (Engine Initialization) Total time: 9.10 seconds
+[2020.09.08-13.58.04:028][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.08-13.58.04:089][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.08-13.58.04:104][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.08-13.58.04:131][  1]LogAssetRegistry: Asset discovery search completed in 5.2161 seconds
+[2020.09.08-13.58.04:135][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.09.08-13.58.05:068][107]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.08-13.58.07:401][272]LogBlueprint: Warning: [Compiler BorisPlayerCharacter] Cast To Level1GM  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.09.08-13.58.07:402][272]LogBlueprint: Error: [Compiler BorisPlayerCharacter] This blueprint (self) is not a Level1GM_C, therefore ' Target ' must have a connection.
+[2020.09.08-13.58.07:413][272]LogBlueprint: Error: [Compiler BorisPlayerCharacter] Variable node  Set IsOnGameOverHUD  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.09.08-13.58.07:922][272]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Level1/Level1HUD.Level1HUD
+[2020.09.08-13.58.08:165][272]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.09.08-13.58.09:223][272]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Level1/DeathHUD.DeathHUD
+[2020.09.08-13.58.09:656][272]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/GameMode/Level1GM.Level1GM
+[2020.09.08-13.58.10:126][272]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter.BorisPlayerCharacter
+[2020.09.08-13.58.11:009][272]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint.SK_Wolf_Blueprint
+[2020.09.08-13.58.11:849][272]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.11:864][272]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.08-13.58.11:978][273]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.08-13.58.14:957][525]Cmd: DELETE
+[2020.09.08-13.58.14:957][525]Cmd: ACTOR DELETE
+[2020.09.08-13.58.15:037][525]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2020.09.08-13.58.15:043][525]LogEditorActor: Deleted 0 Actors (0.086 secs)
+[2020.09.08-13.58.16:041][610]Cmd: DELETE
+[2020.09.08-13.58.16:041][610]Cmd: ACTOR DELETE
+[2020.09.08-13.58.16:092][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.09.08-13.58.16:093][610]LogEditorActor: Deleted 0 Actors (0.051 secs)
+[2020.09.08-13.58.16:280][626]Cmd: DELETE
+[2020.09.08-13.58.16:280][626]Cmd: ACTOR DELETE
+[2020.09.08-13.58.16:329][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.09.08-13.58.16:330][626]LogEditorActor: Deleted 0 Actors (0.049 secs)
+[2020.09.08-13.58.16:436][635]Cmd: DELETE
+[2020.09.08-13.58.16:436][635]Cmd: ACTOR DELETE
+[2020.09.08-13.58.16:486][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.09.08-13.58.16:486][635]LogEditorActor: Deleted 0 Actors (0.050 secs)
+[2020.09.08-13.58.20:458][985]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.08-13.58.20:461][985]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.20:465][985]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap
+[2020.09.08-13.58.20:519][985]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.09.08-13.58.20:520][985]Cmd: MAP LOAD FILE="../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/ThirdPersonBP/Maps/MainLevelMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.08-13.58.20:520][985]LightingResults: New page: Lighting Build
+[2020.09.08-13.58.20:521][985]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2020.09.08-13.58.20:522][985]LoadErrors: New page: Loading map: MainLevelMap.umap
+[2020.09.08-13.58.20:522][985]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-13.58.20:522][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-13.58.20:522][985]MapCheck: New page: Map Check
+[2020.09.08-13.58.20:522][985]LightingResults: New page: Lighting Build
+[2020.09.08-13.58.20:575][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.09.08-13.58.20:581][985]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.20:925][985]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.08-13.58.20:981][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.09.08-13.58.21:023][985]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.08-13.58.21:023][985]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.161ms to complete.
+[2020.09.08-13.58.21:023][985]LogFileHelpers: Loading map 'MainLevelMap' took 0.504
+[2020.09.08-13.58.37:694][341]BlueprintLog: New page: Compile BorisPlayerCharacter
+[2020.09.08-13.58.37:730][341]LogBlueprint: Error: [Compiler BorisPlayerCharacter] This blueprint (self) is not a Level1GM_C, therefore ' Target ' must have a connection.
+[2020.09.08-13.58.37:732][341]LogBlueprint: Error: [Compiler BorisPlayerCharacter] Variable node  Set IsOnGameOverHUD  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.09.08-13.58.37:740][341]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.37:742][341]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.37:743][341]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.37:747][341]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.38:237][341]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2020.09.08-13.58.38:245][341]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.38:246][341]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.38:267][341]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.38:269][341]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.42:179][693]BlueprintLog: New page: Compile BorisPlayerCharacter
+[2020.09.08-13.58.42:213][693]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.42:215][693]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.42:216][693]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.42:218][693]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.42:670][693]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2020.09.08-13.58.42:677][693]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.42:679][693]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.42:700][693]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.42:702][693]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.43:902][794]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.44:021][794]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/BorisPlayerCharacter324D824A4C9A5C6A19BCBC9BBD0CBF44.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter.uasset'
+[2020.09.08-13.58.44:041][794]AssetCheck: New page: Asset Save: BorisPlayerCharacter
+[2020.09.08-13.58.44:041][794]LogContentValidation: Display: Validating Blueprint /Game/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter.BorisPlayerCharacter
+[2020.09.08-13.58.49:189][276]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.08-13.58.49:234][276]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-13.58.49:234][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.08-13.58.49:234][276]PIE: New page: PIE session: MainLevelMap (Sep 8, 2020, 5:58:49 PM)
+[2020.09.08-13.58.49:235][276]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.09.08-13.58.49:236][276]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.09.08-13.58.49:236][276]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-13.58.49:253][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016991s)
+[2020.09.08-13.58.49:255][276]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.08-13.58.49:255][276]LogPlayLevel: PIE: World Init took: (0.001809s)
+[2020.09.08-13.58.49:255][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap (0.019167s)
+[2020.09.08-13.58.49:311][276]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.09.08-13.58.49:312][276]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.08-13.58.49:312][276]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.08-13.58.49:312][276]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.08-13.58.49:313][276]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.08-13.58.49:313][276]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.08-13.58.49:313][276]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.08-13.58.49:313][276]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.08-13.58.49:313][276]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.08-13.58.49:313][276]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.08-13.58.49:313][276]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.08-13.58.49:314][276]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.08-13.58.49:316][276]LogInit: FAudioDevice initialized.
+[2020.09.08-13.58.49:325][276]LogLoad: Game class is 'Level1GM_C'
+[2020.09.08-13.58.49:327][276]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.58.49:328][276]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap up for play (max tick rate 0) at 2020.09.08-15.58.49
+[2020.09.08-13.58.49:329][276]LogWorld: Bringing up level for play took: 0.003214
+[2020.09.08-13.58.49:329][276]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.09.08-13.58.49:336][276]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.09.08-13.58.49:339][276]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap -0.564
+[2020.09.08-13.58.49:339][276]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-13.58.51:537][430]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.09.08-13.58.51:894][463]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-13.58.51:894][463]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-13.58.51:894][463]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-13.58.51:894][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-13.58.51:894][463]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-13.58.51:894][463]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-13.58.51:895][463]LogWorld: UWorld::CleanupWorld for MainLevelMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-13.58.51:895][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-13.58.51:908][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.08-13.58.51:908][463]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-13.58.51:914][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-13.58.51:972][463]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-13.58.51:984][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-13.58.52:024][463]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2020.09.08-13.58.52:083][464]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.09.08-13.59.03:350][329]BlueprintLog: New page: Compile Level1GM
+[2020.09.08-13.59.03:818][329]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.09.08-13.59.03:822][329]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.59.03:824][329]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.59.03:826][329]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.59.03:839][329]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.59.03:841][329]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.59.03:843][329]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.59.04:998][414]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.08-13.59.05:033][414]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-13.59.05:033][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.08-13.59.05:033][414]PIE: New page: PIE session: MainLevelMap (Sep 8, 2020, 5:59:05 PM)
+[2020.09.08-13.59.05:033][414]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-13.59.05:046][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013228s)
+[2020.09.08-13.59.05:048][414]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.08-13.59.05:048][414]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2020.09.08-13.59.05:048][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap (0.014902s)
+[2020.09.08-13.59.05:106][414]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.09.08-13.59.05:107][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.08-13.59.05:107][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.08-13.59.05:107][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.08-13.59.05:107][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.08-13.59.05:107][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.08-13.59.05:107][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.08-13.59.05:107][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.08-13.59.05:107][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.08-13.59.05:107][414]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.08-13.59.05:108][414]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.08-13.59.05:109][414]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.08-13.59.05:111][414]LogInit: FAudioDevice initialized.
+[2020.09.08-13.59.05:119][414]LogLoad: Game class is 'Level1GM_C'
+[2020.09.08-13.59.05:122][414]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-13.59.05:122][414]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap up for play (max tick rate 0) at 2020.09.08-15.59.05
+[2020.09.08-13.59.05:123][414]LogWorld: Bringing up level for play took: 0.002845
+[2020.09.08-13.59.05:123][414]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.09.08-13.59.05:127][414]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap -0.777
+[2020.09.08-13.59.05:127][414]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-13.59.07:351][584]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.09.08-13.59.10:460][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-13.59.11:453][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-13.59.21:566][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-13.59.24:561][927]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	SK_Wolf_Blueprint_C /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap:PersistentLevel.SK_Wolf_Blueprint
+	Function /Game/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint.SK_Wolf_Blueprint_C:SetIsChassingPlayer:0058
+[2020.09.08-13.59.24:561][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  SK_Wolf_Blueprint Function:  Set Is Chassing Player Graph:  SetIsChassingPlayer Node:  Set Value as Bool
+[2020.09.08-13.59.24:561][927]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	SK_Wolf_Blueprint_C /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap:PersistentLevel.SK_Wolf_Blueprint
+	Function /Game/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint.SK_Wolf_Blueprint_C:SetTarget:0058
+[2020.09.08-13.59.24:561][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  SK_Wolf_Blueprint Function:  Set Target Graph:  SetTarget Node:  Set Value as Object
+[2020.09.08-13.59.28:267][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-13.59.46:789][689]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-13.59.46:796][689]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.08-13.59.46:817][689]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.08-13.59.46:817][689]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-13.59.46:817][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-13.59.46:817][689]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-13.59.46:817][689]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-13.59.46:817][689]LogWorld: UWorld::CleanupWorld for MainLevelMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-13.59.46:817][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-13.59.46:832][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.08-13.59.46:832][689]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-13.59.46:839][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-13.59.46:887][689]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-13.59.46:902][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-13.59.46:908][689]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.09.08-13.59.47:023][690]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.09.08-13.59.59:300][609]LogSlate: Window 'Message Log' being destroyed
+[2020.09.08-13.59.59:305][609]LogSlate: Window 'Message Log' being destroyed
+[2020.09.08-14.00.06:159][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.09.08-14.00.06:781][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.09.08-14.00.07:611][153]LogSlate: Window 'Save Content' being destroyed
+[2020.09.08-14.00.07:672][153]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Level1GM040EB6A64904C2FB85A4E49E4C63A603.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/ThirdPersonBP/Blueprints/GameMode/Level1GM.uasset'
+[2020.09.08-14.00.07:724][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.09.08-14.00.08:112][153]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/MainLevelMap41EF6A314957409EEB6FDBA148F4FCAF.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/ThirdPersonBP/Maps/MainLevelMap.umap'
+[2020.09.08-14.00.08:157][153]LogFileHelpers: Saving map 'MainLevelMap' took 0.482
+[2020.09.08-14.00.08:176][153]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.08-14.00.08:176][153]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/GameMode/Level1GM.Level1GM
+[2020.09.08-14.00.08:176][153]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap
+[2020.09.08-14.00.54:080][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.09.08-14.01.12:560][714]LogLinker: Warning: Failed to load '/Game/Characters/Heroes/Boris/Meshes/Boris': Can't find file.
+[2020.09.08-14.01.12:560][714]LogLinker: Warning: Failed to load '/Game/Characters/Heroes/Boris/Meshes/Boris': Can't find file.
+[2020.09.08-14.01.12:560][714]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Characters/Heroes/Boris/Meshes/Boris.Boris'
+[2020.09.08-14.01.15:205][887]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.09.08-14.01.17:184][887]LogSlate: Window 'Delete Assets' being destroyed
+[2020.09.08-14.04.14:065][887]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.04.14:066][887]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	BorisPlayerCharacter_C /Engine/Transient.World_5:PersistentLevel.BorisPlayerCharacter_C_0
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter.BorisPlayerCharacter_C:ExecuteUbergraph_BorisPlayerCharacter:0815
+[2020.09.08-14.04.14:067][887]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.04.14:067][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.04.14:143][887]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.04.14:143][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.04.14:148][887]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.04.14:148][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.04.14:207][887]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.09.08-14.04.14:207][887]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.04.14:207][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.04.14:277][887]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.09.08-14.04.14:277][887]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.04.14:277][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.04.14:340][887]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/ParagonBoris/Characters/Heroes/Boris/Meshes/Boris_ShadowCyl.Boris_ShadowCyl
+	Asset Name: /Game/ParagonBoris/Characters/Heroes/Boris/Meshes/Boris_Extents.Boris_Extents
+[2020.09.08-14.04.17:333][887]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.04.17:334][887]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.04.17:569][887]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.04.17:570][887]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.04.18:279][887]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.09.08-14.04.18:326][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.09.08-14.04.18:370][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.09.08-14.04.18:409][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.09.08-14.06.08:722][436]Cmd: SELECT NONE
+[2020.09.08-14.06.10:861][646]LogAssetEditorSubsystem: Opening Asset editor for Rig /Game/ParagonBoris/Characters/Heroes/Boris/Meshes/Orion_Proto_Retarget.Orion_Proto_Retarget
+[2020.09.08-14.06.21:437][808]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.08-14.06.21:465][808]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.06.21:465][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.08-14.06.21:465][808]PIE: New page: PIE session: MainLevelMap (Sep 8, 2020, 6:06:21 PM)
+[2020.09.08-14.06.21:465][808]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.06.21:480][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014116s)
+[2020.09.08-14.06.21:481][808]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.08-14.06.21:481][808]LogPlayLevel: PIE: World Init took: (0.001743s)
+[2020.09.08-14.06.21:481][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap (0.016075s)
+[2020.09.08-14.06.21:529][808]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.09.08-14.06.21:532][808]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.08-14.06.21:532][808]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.08-14.06.21:532][808]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.08-14.06.21:532][808]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.08-14.06.21:532][808]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.08-14.06.21:532][808]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.08-14.06.21:532][808]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.08-14.06.21:532][808]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.08-14.06.21:533][808]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.08-14.06.21:533][808]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.08-14.06.21:534][808]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.08-14.06.21:537][808]LogInit: FAudioDevice initialized.
+[2020.09.08-14.06.21:543][808]LogLoad: Game class is 'Level1GM_C'
+[2020.09.08-14.06.21:545][808]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.06.21:546][808]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap up for play (max tick rate 0) at 2020.09.08-16.06.21
+[2020.09.08-14.06.21:547][808]LogWorld: Bringing up level for play took: 0.002552
+[2020.09.08-14.06.21:547][808]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.09.08-14.06.21:551][808]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap -0.347
+[2020.09.08-14.06.21:551][808]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.06.23:790][ 28]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.09.08-14.06.32:403][964]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.06.32:418][964]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.08-14.06.32:439][964]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.08-14.06.32:439][964]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.06.32:439][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.06.32:439][964]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.06.32:439][964]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.06.32:439][964]LogWorld: UWorld::CleanupWorld for MainLevelMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.06.32:440][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.06.32:448][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.08-14.06.32:448][964]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.06.32:454][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.06.32:491][964]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.06.32:502][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.06.32:507][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.09.08-14.06.32:535][965]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.09.08-14.06.33:775][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.08-14.06.33:801][ 98]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.06.33:801][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.08-14.06.33:801][ 98]PIE: New page: PIE session: MainLevelMap (Sep 8, 2020, 6:06:33 PM)
+[2020.09.08-14.06.33:801][ 98]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.06.33:815][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013351s)
+[2020.09.08-14.06.33:816][ 98]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.08-14.06.33:816][ 98]LogPlayLevel: PIE: World Init took: (0.001377s)
+[2020.09.08-14.06.33:816][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap (0.014912s)
+[2020.09.08-14.06.33:862][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.09.08-14.06.33:863][ 98]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.08-14.06.33:863][ 98]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.08-14.06.33:863][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.08-14.06.33:863][ 98]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.08-14.06.33:863][ 98]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.08-14.06.33:863][ 98]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.08-14.06.33:863][ 98]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.08-14.06.33:863][ 98]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.08-14.06.33:863][ 98]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.08-14.06.33:863][ 98]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.08-14.06.33:865][ 98]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.08-14.06.33:867][ 98]LogInit: FAudioDevice initialized.
+[2020.09.08-14.06.33:875][ 98]LogLoad: Game class is 'Level1GM_C'
+[2020.09.08-14.06.33:877][ 98]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.06.33:878][ 98]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap up for play (max tick rate 0) at 2020.09.08-16.06.33
+[2020.09.08-14.06.33:878][ 98]LogWorld: Bringing up level for play took: 0.002585
+[2020.09.08-14.06.33:879][ 98]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.09.08-14.06.33:882][ 98]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap -0.015
+[2020.09.08-14.06.33:882][ 98]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.06.36:122][337]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.09.08-14.06.51:277][  1]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.06.51:277][  1]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.06.51:277][  1]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.06.51:278][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.06.51:278][  1]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.06.51:278][  1]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.06.51:278][  1]LogWorld: UWorld::CleanupWorld for MainLevelMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.06.51:278][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.06.51:286][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.08-14.06.51:286][  1]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.06.51:292][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.06.51:331][  1]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.06.51:339][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.06.51:344][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.09.08-14.06.51:392][  3]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.09.08-14.07.28:161][371]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.08-14.07.28:187][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.07.28:188][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.08-14.07.28:188][371]PIE: New page: PIE session: MainLevelMap (Sep 8, 2020, 6:07:28 PM)
+[2020.09.08-14.07.28:188][371]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.07.28:202][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014024s)
+[2020.09.08-14.07.28:203][371]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.08-14.07.28:204][371]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2020.09.08-14.07.28:204][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap (0.015893s)
+[2020.09.08-14.07.28:248][371]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.09.08-14.07.28:252][371]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.08-14.07.28:252][371]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.08-14.07.28:252][371]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.08-14.07.28:252][371]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.08-14.07.28:252][371]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.08-14.07.28:253][371]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.08-14.07.28:253][371]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.08-14.07.28:253][371]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.08-14.07.28:253][371]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.08-14.07.28:253][371]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.08-14.07.28:254][371]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.08-14.07.28:256][371]LogInit: FAudioDevice initialized.
+[2020.09.08-14.07.28:263][371]LogLoad: Game class is 'Level1GM_C'
+[2020.09.08-14.07.28:268][371]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.07.28:269][371]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap up for play (max tick rate 0) at 2020.09.08-16.07.28
+[2020.09.08-14.07.28:270][371]LogWorld: Bringing up level for play took: 0.006023
+[2020.09.08-14.07.28:270][371]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.09.08-14.07.28:275][371]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap 0.378
+[2020.09.08-14.07.28:275][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.07.29:157][453]LogCharacterMovement: SK_Wolf_Blueprint5_11 is stuck and failed to move! Velocity: X=118.31 Y=-40.34 Z=0.00 Location: X=1361.50 Y=100.85 Z=47.43 Normal: X=-0.89 Y=0.42 Z=-0.17 PenetrationDepth:0.000 Actor:SK_Wolf_Blueprint Component:CharacterMesh0 BoneName:Wolf_-Head (27 other events since notify)
+[2020.09.08-14.07.30:131][547]LogCharacterMovement: SK_Wolf_Blueprint is stuck and failed to move! Velocity: X=-109.83 Y=59.68 Z=0.00 Location: X=1420.45 Y=120.93 Z=45.57 Normal: X=0.72 Y=0.59 Z=-0.35 PenetrationDepth:1.027 Actor:SK_Wolf_Blueprint4_8 Component:CharacterMesh0 BoneName:Wolf_-Head (0 other events since notify)
+[2020.09.08-14.07.30:163][550]LogCharacterMovement: SK_Wolf_Blueprint5_11 is stuck and failed to move! Velocity: X=115.91 Y=-46.80 Z=0.00 Location: X=1309.50 Y=173.38 Z=45.60 Normal: X=-0.60 Y=0.77 Z=-0.23 PenetrationDepth:3.221 Actor:SK_Wolf_Blueprint Component:CharacterMesh0 BoneName:Wolf_-Ponytail1 (31 other events since notify)
+[2020.09.08-14.07.30:507][583]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.09.08-14.07.50:635][606]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.07.50:656][606]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.08-14.07.50:678][606]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.08-14.07.50:678][606]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.07.50:678][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.07.50:678][606]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.07.50:678][606]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.07.50:678][606]LogWorld: UWorld::CleanupWorld for MainLevelMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.07.50:679][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.07.50:691][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.08-14.07.50:691][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.07.50:700][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.07.50:748][606]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.07.50:763][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.07.50:769][606]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.09.08-14.07.50:798][607]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.09.08-14.07.54:293][994]LogEditorViewport: Clicking on Actor (LMB): SK_Wolf_Blueprint_C (SK_Wolf_Blueprint)
+[2020.09.08-14.07.54:399][999]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2020.09.08-14.07.56:417][209]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint.SK_Wolf_Blueprint
+[2020.09.08-14.08.12:647][335]BlueprintLog: New page: Compile SK_Wolf_Blueprint
+[2020.09.08-14.08.13:117][335]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.09.08-14.08.13:770][373]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/SK_Wolf_Blueprint834C7DDF4A40C1FA8B7FD08DCFFF0AE8.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint.uasset'
+[2020.09.08-14.08.13:787][373]AssetCheck: New page: Asset Save: SK_Wolf_Blueprint
+[2020.09.08-14.08.13:787][373]LogContentValidation: Display: Validating Blueprint /Game/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint.SK_Wolf_Blueprint
+[2020.09.08-14.08.14:678][443]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.08-14.08.14:704][443]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.08.14:704][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.08-14.08.14:704][443]PIE: New page: PIE session: MainLevelMap (Sep 8, 2020, 6:08:14 PM)
+[2020.09.08-14.08.14:704][443]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.08.14:719][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014688s)
+[2020.09.08-14.08.14:720][443]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.08-14.08.14:720][443]LogPlayLevel: PIE: World Init took: (0.001653s)
+[2020.09.08-14.08.14:720][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap (0.016566s)
+[2020.09.08-14.08.14:772][443]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2020.09.08-14.08.14:774][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.08-14.08.14:774][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.08-14.08.14:774][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.08-14.08.14:774][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.08-14.08.14:774][443]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.08-14.08.14:774][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.08-14.08.14:774][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.08-14.08.14:774][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.08-14.08.14:775][443]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.08-14.08.14:775][443]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.08-14.08.14:776][443]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.08-14.08.14:778][443]LogInit: FAudioDevice initialized.
+[2020.09.08-14.08.14:790][443]LogLoad: Game class is 'Level1GM_C'
+[2020.09.08-14.08.14:795][443]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.08.14:795][443]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap up for play (max tick rate 0) at 2020.09.08-16.08.14
+[2020.09.08-14.08.14:797][443]LogWorld: Bringing up level for play took: 0.005876
+[2020.09.08-14.08.14:797][443]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.09.08-14.08.14:802][443]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap 0.905
+[2020.09.08-14.08.14:802][443]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.08.17:027][627]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.09.08-14.08.28:404][606]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.08.28:411][606]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.08-14.08.28:432][606]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.08-14.08.28:432][606]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.08.28:432][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.08.28:432][606]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.08.28:432][606]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.08.28:432][606]LogWorld: UWorld::CleanupWorld for MainLevelMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.08.28:433][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.08.28:447][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.08-14.08.28:448][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.08.28:453][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.08.28:499][606]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.08.28:518][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.08.28:524][606]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.09.08-14.08.28:600][607]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.09.08-14.08.40:524][592]BlueprintLog: New page: Compile SK_Wolf_Blueprint
+[2020.09.08-14.08.40:972][592]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.09.08-14.08.42:702][717]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.08-14.08.42:730][717]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.08.42:730][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.08-14.08.42:730][717]PIE: New page: PIE session: MainLevelMap (Sep 8, 2020, 6:08:42 PM)
+[2020.09.08-14.08.42:730][717]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.08.42:744][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014485s)
+[2020.09.08-14.08.42:745][717]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.08-14.08.42:746][717]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2020.09.08-14.08.42:746][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap (0.015920s)
+[2020.09.08-14.08.42:795][717]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2020.09.08-14.08.42:797][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.08-14.08.42:797][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.08-14.08.42:797][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.08-14.08.42:797][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.08-14.08.42:797][717]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.08-14.08.42:797][717]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.08-14.08.42:797][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.08-14.08.42:797][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.08-14.08.42:797][717]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.08-14.08.42:797][717]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.08-14.08.42:798][717]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.08-14.08.42:800][717]LogInit: FAudioDevice initialized.
+[2020.09.08-14.08.42:807][717]LogLoad: Game class is 'Level1GM_C'
+[2020.09.08-14.08.42:812][717]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.08.42:813][717]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap up for play (max tick rate 0) at 2020.09.08-16.08.42
+[2020.09.08-14.08.42:814][717]LogWorld: Bringing up level for play took: 0.006234
+[2020.09.08-14.08.42:815][717]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.09.08-14.08.42:819][717]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap 0.924
+[2020.09.08-14.08.42:819][717]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.08.44:478][844]LogBlueprintUserMessages: [SK_Wolf_Blueprint3_5] Hello
+[2020.09.08-14.08.45:054][888]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.09.08-14.08.45:352][911]LogBlueprintUserMessages: [SK_Wolf_Blueprint4_8] Hello
+[2020.09.08-14.08.46:173][975]LogBlueprintUserMessages: [SK_Wolf_Blueprint5_11] Hello
+[2020.09.08-14.08.46:777][ 22]LogCharacterMovement: SK_Wolf_Blueprint5_11 is stuck and failed to move! Velocity: X=37.59 Y=-119.21 Z=0.00 Location: X=958.00 Y=-6.67 Z=45.96 Normal: X=-0.93 Y=-0.29 Z=-0.24 PenetrationDepth:0.000 Actor:SK_Wolf_Blueprint2_2 Component:CharacterMesh0 BoneName:Wolf_-Head (0 other events since notify)
+[2020.09.08-14.08.48:122][126]LogBlueprintUserMessages: [SK_Wolf_Blueprint2_2] Hello
+[2020.09.08-14.08.55:738][733]LogBlueprintUserMessages: [SK_Wolf_Blueprint5_11] Hello
+[2020.09.08-14.09.02:035][234]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.09.02:044][234]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.08-14.09.02:066][234]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.08-14.09.02:066][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.09.02:066][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.09.02:066][234]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.09.02:066][234]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.09.02:066][234]LogWorld: UWorld::CleanupWorld for MainLevelMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.09.02:067][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.09.02:082][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.08-14.09.02:082][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.09.02:088][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.09.02:132][234]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.09.02:151][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.09.02:156][234]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.09.08-14.09.02:232][235]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.09.08-14.09.05:044][448]LogEditorViewport: Clicking on Actor (LMB): BorisPlayerCharacter_C (BorisPlayerCharacter)
+[2020.09.08-14.09.25:426][959]BlueprintLog: New page: Compile SK_Wolf_Blueprint
+[2020.09.08-14.09.25:869][959]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.09.08-14.09.43:980][147]LogEditorViewport: Clicking on Actor (LMB): SK_Wolf_Blueprint_C (SK_Wolf_Blueprint2)
+[2020.09.08-14.09.44:742][199]LogEditorViewport: Clicking on Actor (CTRL LMB): SK_Wolf_Blueprint_C (SK_Wolf_Blueprint4)
+[2020.09.08-14.09.45:228][231]LogEditorViewport: Clicking on Actor (CTRL LMB): SK_Wolf_Blueprint_C (SK_Wolf_Blueprint5)
+[2020.09.08-14.09.45:759][266]LogEditorViewport: Clicking on Actor (CTRL LMB): SK_Wolf_Blueprint_C (SK_Wolf_Blueprint3)
+[2020.09.08-14.09.48:336][451]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.08-14.09.49:332][524]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.08-14.09.54:091][860]LogEditorViewport: Clicking on Actor (LMB): BorisPlayerCharacter_C (BorisPlayerCharacter)
+[2020.09.08-14.10.38:451][532]LogEditorViewport: Clicking on Actor (LMB): BorisPlayerCharacter_C (BorisPlayerCharacter)
+[2020.09.08-14.10.38:539][536]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2020.09.08-14.10.42:349][771]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ParagonBoris/Characters/Heroes/Boris/Meshes/Boris.Boris
+[2020.09.08-14.10.42:358][771]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.09.08-14.10.42:622][771]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.08-14.10.42:626][771]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.09.08-14.10.43:516][772]LogRenderer: Reallocating scene render targets to support 888x732 Format 10 NumSamples 1 (Frame:1).
+[2020.09.08-14.11.15:311][961]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ParagonBoris/Characters/Heroes/Boris/Meshes/Boris_Skeleton.Boris_Skeleton
+[2020.09.08-14.11.15:316][961]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.08-14.11.39:063][634]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.11.39:063][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.11.43:348][936]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter.BorisPlayerCharacter
+[2020.09.08-14.11.43:810][936]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.11.57:845][858]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.09.08-14.11.58:723][914]LogEditorViewport: Clicking on Actor (LMB): BorisPlayerCharacter_C (BorisPlayerCharacter)
+[2020.09.08-14.12.11:420][482]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.12.11:431][482]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.12.11:443][482]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.12.11:455][482]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.12.12:768][539]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.08-14.12.12:794][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.12.12:794][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.08-14.12.12:795][539]PIE: New page: PIE session: MainLevelMap (Sep 8, 2020, 6:12:12 PM)
+[2020.09.08-14.12.12:795][539]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.12.12:810][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015376s)
+[2020.09.08-14.12.12:811][539]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.08-14.12.12:812][539]LogPlayLevel: PIE: World Init took: (0.001648s)
+[2020.09.08-14.12.12:812][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap (0.017216s)
+[2020.09.08-14.12.12:904][539]LogUObjectHash: Compacting FUObjectHashTables data took   7.90ms
+[2020.09.08-14.12.12:909][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.08-14.12.12:909][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.08-14.12.12:909][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.08-14.12.12:909][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.08-14.12.12:909][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.08-14.12.12:909][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.08-14.12.12:909][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.08-14.12.12:909][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.08-14.12.12:910][539]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.08-14.12.12:910][539]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.08-14.12.12:911][539]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.08-14.12.12:913][539]LogInit: FAudioDevice initialized.
+[2020.09.08-14.12.12:921][539]LogLoad: Game class is 'Level1GM_C'
+[2020.09.08-14.12.12:926][539]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.12.12:927][539]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap up for play (max tick rate 0) at 2020.09.08-16.12.12
+[2020.09.08-14.12.12:928][539]LogWorld: Bringing up level for play took: 0.005929
+[2020.09.08-14.12.12:928][539]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.09.08-14.12.12:933][539]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap 1.039
+[2020.09.08-14.12.12:933][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.12.15:108][689]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.09.08-14.12.34:573][129]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.12.34:589][129]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.08-14.12.34:610][129]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.08-14.12.34:610][129]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.12.34:610][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.12.34:610][129]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.12.34:610][129]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.12.34:610][129]LogWorld: UWorld::CleanupWorld for MainLevelMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.12.34:611][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.12.34:635][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.08-14.12.34:635][129]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.12.34:642][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.12.34:693][129]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.12.34:696][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.12.34:707][129]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.09.08-14.12.34:785][130]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.09.08-14.12.43:462][785]LogEditorViewport: Clicking on Actor (LMB): BorisPlayerCharacter_C (BorisPlayerCharacter)
+[2020.09.08-14.12.56:127][293]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.12.56:139][293]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.12.56:150][293]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.12.56:162][293]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.13.00:103][465]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.08-14.13.00:130][465]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.13.00:130][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.08-14.13.00:130][465]PIE: New page: PIE session: MainLevelMap (Sep 8, 2020, 6:13:00 PM)
+[2020.09.08-14.13.00:130][465]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.13.00:144][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014176s)
+[2020.09.08-14.13.00:145][465]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.08-14.13.00:145][465]LogPlayLevel: PIE: World Init took: (0.001168s)
+[2020.09.08-14.13.00:145][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap (0.015510s)
+[2020.09.08-14.13.00:203][465]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.09.08-14.13.00:206][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.08-14.13.00:206][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.08-14.13.00:206][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.08-14.13.00:206][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.08-14.13.00:206][465]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.08-14.13.00:206][465]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.08-14.13.00:206][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.08-14.13.00:206][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.08-14.13.00:206][465]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.08-14.13.00:206][465]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.08-14.13.00:207][465]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.08-14.13.00:210][465]LogInit: FAudioDevice initialized.
+[2020.09.08-14.13.00:218][465]LogLoad: Game class is 'Level1GM_C'
+[2020.09.08-14.13.00:223][465]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.13.00:223][465]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap up for play (max tick rate 0) at 2020.09.08-16.13.00
+[2020.09.08-14.13.00:225][465]LogWorld: Bringing up level for play took: 0.005904
+[2020.09.08-14.13.00:225][465]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.09.08-14.13.00:230][465]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap 0.336
+[2020.09.08-14.13.00:230][465]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.13.01:573][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.13.01:576][554]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.08-14.13.01:598][554]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.08-14.13.01:598][554]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.13.01:598][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.13.01:598][554]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.13.01:598][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.13.01:598][554]LogWorld: UWorld::CleanupWorld for MainLevelMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.13.01:599][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.13.01:612][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.08-14.13.01:613][554]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.13.01:620][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.13.01:669][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.13.01:683][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.13.01:690][554]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.09.08-14.13.01:769][555]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.09.08-14.13.05:816][853]LogEditorViewport: Clicking on Actor (LMB): BorisPlayerCharacter_C (BorisPlayerCharacter)
+[2020.09.08-14.13.10:775][ 54]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.13.10:787][ 54]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.13.10:800][ 54]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.13.10:811][ 54]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.13.10:823][ 54]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.13.12:095][103]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.08-14.13.12:124][103]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.13.12:124][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.08-14.13.12:124][103]PIE: New page: PIE session: MainLevelMap (Sep 8, 2020, 6:13:12 PM)
+[2020.09.08-14.13.12:124][103]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.13.12:137][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014166s)
+[2020.09.08-14.13.12:138][103]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.08-14.13.12:139][103]LogPlayLevel: PIE: World Init took: (0.001411s)
+[2020.09.08-14.13.12:139][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap (0.015758s)
+[2020.09.08-14.13.12:196][103]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.09.08-14.13.12:199][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.08-14.13.12:199][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.08-14.13.12:199][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.08-14.13.12:199][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.08-14.13.12:199][103]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.08-14.13.12:199][103]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.08-14.13.12:199][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.08-14.13.12:199][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.08-14.13.12:199][103]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.08-14.13.12:199][103]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.08-14.13.12:201][103]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.08-14.13.12:203][103]LogInit: FAudioDevice initialized.
+[2020.09.08-14.13.12:213][103]LogLoad: Game class is 'Level1GM_C'
+[2020.09.08-14.13.12:218][103]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.13.12:218][103]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap up for play (max tick rate 0) at 2020.09.08-16.13.12
+[2020.09.08-14.13.12:220][103]LogWorld: Bringing up level for play took: 0.006090
+[2020.09.08-14.13.12:220][103]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.09.08-14.13.12:224][103]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap 0.331
+[2020.09.08-14.13.12:225][103]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.13.14:434][254]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.09.08-14.13.16:963][431]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.13.16:983][431]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.08-14.13.17:003][431]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.08-14.13.17:003][431]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.13.17:003][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.13.17:003][431]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.13.17:003][431]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.13.17:003][431]LogWorld: UWorld::CleanupWorld for MainLevelMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.13.17:005][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.13.17:024][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.08-14.13.17:025][431]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.13.17:033][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.13.17:086][431]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.13.17:089][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.13.17:095][431]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.09.08-14.13.17:175][432]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.09.08-14.13.34:290][960]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/BorisPlayerCharacterD89B661C47AAC5E762042ABB5BA94F8F.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter.uasset'
+[2020.09.08-14.13.34:308][960]AssetCheck: New page: Asset Save: BorisPlayerCharacter
+[2020.09.08-14.13.34:308][960]LogContentValidation: Display: Validating Blueprint /Game/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter.BorisPlayerCharacter
+[2020.09.08-14.13.35:648][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.09.08-14.13.36:623][ 61]LogSlate: Window 'Save Content' being destroyed
+[2020.09.08-14.13.36:732][ 61]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/SK_Wolf_Blueprint57A2DEC04D9C08D8D5F3C4885D903246.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint.uasset'
+[2020.09.08-14.13.37:383][ 61]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Boris9DB0DFE74362AFB3A23FE99F11765A65.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/ParagonBoris/Characters/Heroes/Boris/Meshes/Boris.uasset'
+[2020.09.08-14.13.37:440][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.09.08-14.13.37:916][ 61]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/MainLevelMap805B4FEE45BEEA7C5CA6B2AB22B8E6E7.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/ThirdPersonBP/Maps/MainLevelMap.umap'
+[2020.09.08-14.13.37:961][ 61]LogFileHelpers: Saving map 'MainLevelMap' took 0.576
+[2020.09.08-14.13.38:008][ 61]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.08-14.13.38:008][ 61]LogContentValidation: Display: Validating Blueprint /Game/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint.SK_Wolf_Blueprint
+[2020.09.08-14.13.38:008][ 61]LogContentValidation: Display: Validating SkeletalMesh /Game/ParagonBoris/Characters/Heroes/Boris/Meshes/Boris.Boris
+[2020.09.08-14.13.38:008][ 61]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap
+[2020.09.08-14.14.26:463][324]BlueprintLog: New page: Compile SK_Wolf_Blueprint
+[2020.09.08-14.14.26:987][324]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2020.09.08-14.14.29:870][545]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.08-14.14.29:898][545]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.14.29:898][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.08-14.14.29:898][545]PIE: New page: PIE session: MainLevelMap (Sep 8, 2020, 6:14:29 PM)
+[2020.09.08-14.14.29:898][545]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.14.29:913][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014283s)
+[2020.09.08-14.14.29:914][545]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.08-14.14.29:914][545]LogPlayLevel: PIE: World Init took: (0.001283s)
+[2020.09.08-14.14.29:914][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap (0.015737s)
+[2020.09.08-14.14.29:975][545]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2020.09.08-14.14.29:976][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.08-14.14.29:976][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.08-14.14.29:976][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.08-14.14.29:976][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.08-14.14.29:976][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.08-14.14.29:976][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.08-14.14.29:976][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.08-14.14.29:976][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.08-14.14.29:976][545]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.08-14.14.29:976][545]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.08-14.14.29:977][545]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.08-14.14.29:979][545]LogInit: FAudioDevice initialized.
+[2020.09.08-14.14.29:990][545]LogLoad: Game class is 'Level1GM_C'
+[2020.09.08-14.14.29:995][545]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.14.29:996][545]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap up for play (max tick rate 0) at 2020.09.08-16.14.29
+[2020.09.08-14.14.29:997][545]LogWorld: Bringing up level for play took: 0.006237
+[2020.09.08-14.14.29:997][545]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.09.08-14.14.30:002][545]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap 0.108
+[2020.09.08-14.14.30:002][545]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.14.32:106][708]LogBlueprintUserMessages: [SK_Wolf_Blueprint3_5] Hello
+[2020.09.08-14.14.32:222][717]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.09.08-14.14.46:625][872]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.14.46:641][872]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.08-14.14.46:663][872]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.08-14.14.46:663][872]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.14.46:663][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.14.46:663][872]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.14.46:663][872]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.14.46:663][872]LogWorld: UWorld::CleanupWorld for MainLevelMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.14.46:664][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.14.46:686][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.08-14.14.46:687][872]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.14.46:694][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.14.46:744][872]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.14.46:748][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.14.46:755][872]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.09.08-14.14.46:826][873]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.09.08-14.14.50:808][200]LogEditorViewport: Clicking on Actor (LMB): SK_Wolf_Blueprint_C (SK_Wolf_Blueprint2)
+[2020.09.08-14.14.51:741][241]Cmd: DELETE
+[2020.09.08-14.14.51:741][241]Cmd: ACTOR DELETE
+[2020.09.08-14.14.51:747][241]LogEditorActor: Deleted Actor: SK_Wolf_Blueprint_C
+[2020.09.08-14.14.51:800][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.09.08-14.14.51:802][241]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2020.09.08-14.14.52:417][294]LogEditorViewport: Clicking on Actor (LMB): SK_Wolf_Blueprint_C (SK_Wolf_Blueprint4)
+[2020.09.08-14.14.52:614][299]Cmd: DELETE
+[2020.09.08-14.14.52:614][299]Cmd: ACTOR DELETE
+[2020.09.08-14.14.52:616][299]LogEditorActor: Deleted Actor: SK_Wolf_Blueprint_C
+[2020.09.08-14.14.52:671][299]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.09.08-14.14.52:672][299]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2020.09.08-14.14.53:049][331]LogEditorViewport: Clicking on Actor (LMB): SK_Wolf_Blueprint_C (SK_Wolf_Blueprint5)
+[2020.09.08-14.14.53:154][332]Cmd: DELETE
+[2020.09.08-14.14.53:154][332]Cmd: ACTOR DELETE
+[2020.09.08-14.14.53:156][332]LogEditorActor: Deleted Actor: SK_Wolf_Blueprint_C
+[2020.09.08-14.14.53:209][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.09.08-14.14.53:209][332]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2020.09.08-14.14.53:783][380]LogEditorViewport: Clicking on Actor (LMB): SK_Wolf_Blueprint_C (SK_Wolf_Blueprint3)
+[2020.09.08-14.14.53:836][380]Cmd: DELETE
+[2020.09.08-14.14.53:836][380]Cmd: ACTOR DELETE
+[2020.09.08-14.14.53:837][380]LogEditorActor: Deleted Actor: SK_Wolf_Blueprint_C
+[2020.09.08-14.14.53:892][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.09.08-14.14.53:892][380]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2020.09.08-14.14.55:214][488]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.08-14.14.55:241][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.14.55:241][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.08-14.14.55:241][488]PIE: New page: PIE session: MainLevelMap (Sep 8, 2020, 6:14:55 PM)
+[2020.09.08-14.14.55:241][488]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.14.55:254][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013169s)
+[2020.09.08-14.14.55:256][488]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.08-14.14.55:257][488]LogPlayLevel: PIE: World Init took: (0.002138s)
+[2020.09.08-14.14.55:257][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap (0.015588s)
+[2020.09.08-14.14.55:315][488]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.09.08-14.14.55:316][488]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.08-14.14.55:316][488]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.08-14.14.55:316][488]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.08-14.14.55:316][488]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.08-14.14.55:316][488]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.08-14.14.55:316][488]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.08-14.14.55:316][488]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.08-14.14.55:316][488]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.08-14.14.55:317][488]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.08-14.14.55:317][488]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.08-14.14.55:318][488]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.08-14.14.55:320][488]LogInit: FAudioDevice initialized.
+[2020.09.08-14.14.55:331][488]LogLoad: Game class is 'Level1GM_C'
+[2020.09.08-14.14.55:333][488]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.14.55:334][488]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap up for play (max tick rate 0) at 2020.09.08-16.14.55
+[2020.09.08-14.14.55:334][488]LogWorld: Bringing up level for play took: 0.002520
+[2020.09.08-14.14.55:335][488]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.09.08-14.14.55:338][488]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap -0.555
+[2020.09.08-14.14.55:338][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.14.57:568][671]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.09.08-14.15.01:136][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.15.01:144][973]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.08-14.15.01:166][973]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.08-14.15.01:166][973]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.15.01:166][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.15.01:166][973]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.15.01:166][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.15.01:166][973]LogWorld: UWorld::CleanupWorld for MainLevelMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.15.01:167][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.15.01:188][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.08-14.15.01:188][973]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.15.01:196][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.15.01:246][973]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.15.01:251][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.15.01:257][973]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.09.08-14.15.01:326][974]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.09.08-14.15.15:089][134]LogEditorViewport: Clicking on Actor (LMB): BorisPlayerCharacter_C (BorisPlayerCharacter)
+[2020.09.08-14.15.27:826][722]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.15.28:818][769]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.15.28:821][769]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.15.30:381][840]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.08-14.15.30:409][840]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.15.30:410][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.08-14.15.30:410][840]PIE: New page: PIE session: MainLevelMap (Sep 8, 2020, 6:15:30 PM)
+[2020.09.08-14.15.30:410][840]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.15.30:423][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013023s)
+[2020.09.08-14.15.30:424][840]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.08-14.15.30:424][840]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2020.09.08-14.15.30:424][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap (0.014354s)
+[2020.09.08-14.15.30:481][840]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.09.08-14.15.30:485][840]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.08-14.15.30:485][840]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.08-14.15.30:485][840]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.08-14.15.30:485][840]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.08-14.15.30:485][840]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.08-14.15.30:485][840]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.08-14.15.30:485][840]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.08-14.15.30:485][840]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.08-14.15.30:486][840]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.08-14.15.30:486][840]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.08-14.15.30:487][840]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.08-14.15.30:489][840]LogInit: FAudioDevice initialized.
+[2020.09.08-14.15.30:494][840]LogLoad: Game class is 'Level1GM_C'
+[2020.09.08-14.15.30:496][840]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.08-14.15.30:497][840]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap up for play (max tick rate 0) at 2020.09.08-16.15.30
+[2020.09.08-14.15.30:497][840]LogWorld: Bringing up level for play took: 0.002510
+[2020.09.08-14.15.30:498][840]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.09.08-14.15.30:502][840]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap 0.609
+[2020.09.08-14.15.30:502][840]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.15.31:571][927]LogBlueprintUserMessages: [SK_Wolf_Blueprint] Hello
+[2020.09.08-14.15.32:715][ 25]LogBlueprintUserMessages: [SK_Wolf_Blueprint] Hello
+[2020.09.08-14.15.32:715][ 25]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.09.08-14.15.33:659][106]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.15.33:669][106]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.08-14.15.33:690][106]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.08-14.15.33:690][106]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.15.33:690][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.15.33:690][106]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.08-14.15.33:690][106]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.15.33:690][106]LogWorld: UWorld::CleanupWorld for MainLevelMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.08-14.15.33:691][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.15.33:709][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.08-14.15.33:709][106]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.08-14.15.33:716][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.08-14.15.33:767][106]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.08-14.15.33:776][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.08-14.15.33:782][106]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.09.08-14.15.33:849][107]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.09.08-14.15.39:431][574]BlueprintLog: New page: Compile SK_Wolf_Blueprint
+[2020.09.08-14.15.39:936][574]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2020.09.08-14.15.44:215][932]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2020.09.08-14.15.45:604][932]LogSlate: Window 'Save Content' being destroyed
+[2020.09.08-14.15.45:706][932]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/SK_Wolf_Blueprint61EE4A274A15B53125DF3882CFECBD20.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint.uasset'
+[2020.09.08-14.15.45:784][932]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/BorisPlayerCharacterA3AB5C6C43B425BEC154FE88FBBEB924.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter.uasset'
+[2020.09.08-14.15.45:839][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.09.08-14.15.46:301][932]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/MainLevelMapCA111D2B43DE714E921968B5DA9E3A06.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/ThirdPersonBP/Maps/MainLevelMap.umap'
+[2020.09.08-14.15.46:346][932]LogFileHelpers: Saving map 'MainLevelMap' took 0.559
+[2020.09.08-14.15.46:376][932]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.08-14.15.46:376][932]LogContentValidation: Display: Validating Blueprint /Game/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint.SK_Wolf_Blueprint
+[2020.09.08-14.15.46:376][932]LogContentValidation: Display: Validating Blueprint /Game/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter.BorisPlayerCharacter
+[2020.09.08-14.15.46:376][932]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap
+[2020.09.08-14.16.20:391][144]Cmd: SELECT NONE
+[2020.09.08-14.16.22:076][282]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2020.09.08-14.16.22:537][282]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/MainLevelMap1ABA17884C39E7A2DADF7AAB8EBF2A17.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/ThirdPersonBP/Maps/MainLevelMap.umap'
+[2020.09.08-14.16.22:655][282]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/MainLevelMap_BuiltData688EF5E146A66EB659C3DBB940B06B38.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/ThirdPersonBP/Maps/MainLevelMap_BuiltData.uasset'
+[2020.09.08-14.16.22:679][282]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.08-14.16.22:679][282]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap
+[2020.09.08-14.16.22:679][282]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/MainLevelMap_BuiltData.MainLevelMap_BuiltData
+[2020.09.08-14.19.42:940][457]LogActorFactory: Actor Factory created Cube
+[2020.09.08-14.19.43:763][519]LogActorFactory: Actor Factory created Cube
+[2020.09.08-14.19.53:568][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.09.08-14.20.02:489][952]LogActorFactory: Actor Factory created Plane
+[2020.09.08-14.20.03:641][ 31]LogActorFactory: Actor Factory created Plane
+[2020.09.08-14.20.07:133][291]Cmd: DELETE
+[2020.09.08-14.20.07:133][291]Cmd: ACTOR DELETE
+[2020.09.08-14.20.07:135][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.08-14.20.07:193][291]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.09.08-14.20.07:198][291]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2020.09.08-14.20.12:145][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.09.08-14.21.07:398][997]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.09.08-14.21.09:784][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.09.08-14.21.18:942][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.09.08-14.21.19:214][900]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.09.08-14.21.19:420][914]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.09.08-14.21.27:437][546]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.09.08-14.21.51:297][383]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.09.08-14.21.55:530][724]Cmd: DELETE
+[2020.09.08-14.21.55:530][724]Cmd: ACTOR DELETE
+[2020.09.08-14.21.56:463][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.09.08-14.21.57:223][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.09.08-14.21.57:483][868]Cmd: DELETE
+[2020.09.08-14.21.57:483][868]Cmd: ACTOR DELETE
+[2020.09.08-14.21.57:485][868]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.08-14.21.57:542][868]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.09.08-14.21.57:547][868]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2020.09.08-14.22.01:059][172]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.09.08-14.23.10:399][ 96]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.09.08-14.23.23:109][210]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.09.08-14.23.47:539][275]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush2)
+[2020.09.08-14.24.01:793][329]LogSlate: Window 'Merge Actors' being destroyed
+[2020.09.08-14.24.01:797][329]LogSlate: Window 'Merge Actors' being destroyed
+[2020.09.08-14.25.13:461][525]Cmd: DELETE
+[2020.09.08-14.25.13:468][525]Cmd: ACTOR DELETE
+[2020.09.08-14.25.13:471][525]LogEditorActor: Deleted Actor: Brush
+[2020.09.08-14.25.13:472][525]LogEditorActor: Deleted Actor: Brush
+[2020.09.08-14.25.13:534][525]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.09.08-14.25.13:541][525]LogEditorActor: Deleted 2 Actors (0.074 secs)
+[2020.09.08-14.26.22:315][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.09.08-14.26.22:870][924]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/MainLevelMap_Auto10AE10868495CA878764D7089A20369CD.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Autosaves/Game/ThirdPersonBP/Maps/MainLevelMap_Auto1.umap'
+[2020.09.08-14.26.22:874][924]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/MainLevelMap' took 0.616
+[2020.09.08-14.26.22:874][924]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.616
