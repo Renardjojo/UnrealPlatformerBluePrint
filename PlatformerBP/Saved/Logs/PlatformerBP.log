@@ -3041,3 +3041,182 @@ Script call stack:
 [2020.09.09-08.33.49:925][633]LogPlayLevel: Display: Destroying online subsystem :Context_87
 [2020.09.09-08.33.51:376][729]LogSlate: Window 'Message Log' being destroyed
 [2020.09.09-08.33.51:380][729]LogSlate: Window 'Message Log' being destroyed
+[2020.09.09-08.43.54:214][545]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2020.09.09-08.43.54:641][545]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/MainLevelMap_Auto58AB79F4F4B094357B1798D90CB8C4FF0.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Autosaves/Game/ThirdPersonBP/Maps/MainLevelMap_Auto5.umap'
+[2020.09.09-08.43.54:643][545]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/MainLevelMap' took 0.489
+[2020.09.09-08.43.54:643][545]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.489
+[2020.09.09-08.43.54:644][545]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint] ([1] browsable assets)...
+[2020.09.09-08.43.54:661][545]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint.SK_Wolf_Blueprint]
+[2020.09.09-08.43.54:661][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint]
+[2020.09.09-08.43.54:733][545]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/SK_Wolf_Blueprint_Auto562318DE14BD92CE415CC1C83BD43DC46.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Autosaves/Game/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint_Auto5.uasset'
+[2020.09.09-08.43.54:734][545]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Envrionnement/Bumper/Bumprt] ([1] browsable assets)...
+[2020.09.09-08.43.54:745][545]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Envrionnement/Bumper/Bumprt.Bumprt]
+[2020.09.09-08.43.54:745][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Envrionnement/Bumper/Bumprt]
+[2020.09.09-08.43.54:790][545]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Bumprt_Auto5C73F6ED8491BA43FE31C899989631DD0.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Envrionnement/Bumper/Bumprt_Auto5.uasset'
+[2020.09.09-08.43.54:791][545]LogFileHelpers: Auto-saving content packages took 0.147
+[2020.09.09-08.44.11:729][981]BlueprintLog: New page: Compile SK_Wolf_Blueprint
+[2020.09.09-08.44.11:744][981]LogBlueprint: Warning: [Compiler SK_Wolf_Blueprint] Set IsDead  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.09.09-08.44.11:745][981]LogBlueprint: Warning: [Compiler SK_Wolf_Blueprint] Set IsDead  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.09.09-08.44.11:749][981]LogBlueprint: Error: [Compiler SK_Wolf_Blueprint] This blueprint (self) is not a BrainComponent, therefore ' Target ' must have a connection.
+[2020.09.09-08.44.12:183][981]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.09.09-08.44.22:427][769]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AnimalVarietyPack/Wolf/WolfBT.WolfBT
+[2020.09.09-08.44.24:916][989]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.09-08.44.24:961][989]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.09-08.44.24:964][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.09-08.44.24:964][989]BlueprintLog: Warning: Blueprint failed to compile:  SK_Wolf_Blueprint
+[2020.09.09-08.44.24:964][989]LogCustomDialog: Dialog displayed:
+[2020.09.09-08.44.26:370][989]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.09.09-08.44.27:522][ 87]LogSlate: Window 'Message Log' being destroyed
+[2020.09.09-08.44.27:526][ 87]LogSlate: Window 'Message Log' being destroyed
+[2020.09.09-08.44.30:159][328]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.09-08.44.30:186][328]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.09-08.44.30:189][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.09-08.44.30:189][328]BlueprintLog: Warning: Blueprint failed to compile:  SK_Wolf_Blueprint
+[2020.09.09-08.44.30:189][328]LogCustomDialog: Dialog displayed:
+[2020.09.09-08.44.37:762][328]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.09.09-08.45.05:723][233]BlueprintLog: New page: Compile SK_Wolf_Blueprint
+[2020.09.09-08.45.05:736][233]LogBlueprint: Warning: [Compiler SK_Wolf_Blueprint] Set IsDead  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.09.09-08.45.05:736][233]LogBlueprint: Warning: [Compiler SK_Wolf_Blueprint] Set IsDead  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.09.09-08.45.06:177][233]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2020.09.09-08.45.13:662][863]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.09-08.45.13:690][863]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.09-08.45.13:693][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.09-08.45.13:693][863]PIE: New page: PIE session: MainLevelMap (Sep 9, 2020, 12:45:13 PM)
+[2020.09.09-08.45.13:693][863]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.09-08.45.13:707][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013694s)
+[2020.09.09-08.45.13:708][863]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.09-08.45.13:708][863]LogPlayLevel: PIE: World Init took: (0.001706s)
+[2020.09.09-08.45.13:708][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap (0.015602s)
+[2020.09.09-08.45.13:766][863]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.09.09-08.45.13:768][863]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.09-08.45.13:768][863]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.09-08.45.13:768][863]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.09-08.45.13:768][863]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.09-08.45.13:768][863]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.09-08.45.13:768][863]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.09-08.45.13:768][863]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.09-08.45.13:768][863]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.09-08.45.13:769][863]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.09-08.45.13:769][863]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.09-08.45.13:770][863]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.09-08.45.13:773][863]LogInit: FAudioDevice initialized.
+[2020.09.09-08.45.13:784][863]LogLoad: Game class is 'Level1GM_C'
+[2020.09.09-08.45.13:787][863]LogScript: Warning: Script Msg: Divide by zero detected: -170.000015 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.09-08.45.13:787][863]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap up for play (max tick rate 0) at 2020.09.09-10.45.13
+[2020.09.09-08.45.13:788][863]LogWorld: Bringing up level for play took: 0.002724
+[2020.09.09-08.45.13:788][863]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2020.09.09-08.45.13:793][863]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap 0.615
+[2020.09.09-08.45.13:793][863]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.09-08.45.16:015][ 54]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.09.09-08.45.19:541][361]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	SK_Wolf_Blueprint_C /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap:PersistentLevel.SK_Wolf_Blueprint
+	Function /Game/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint.SK_Wolf_Blueprint_C:SetIsChassingPlayer:0058
+[2020.09.09-08.45.19:541][361]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  SK_Wolf_Blueprint Function:  Set Is Chassing Player Graph:  SetIsChassingPlayer Node:  Set Value as Bool
+[2020.09.09-08.45.19:541][361]LogScript: Warning: Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue
+	SK_Wolf_Blueprint_C /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap:PersistentLevel.SK_Wolf_Blueprint
+	Function /Game/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint.SK_Wolf_Blueprint_C:SetTarget:0058
+[2020.09.09-08.45.19:541][361]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetBlackboard_ReturnValue". Blueprint:  SK_Wolf_Blueprint Function:  Set Target Graph:  SetTarget Node:  Set Value as Object
+[2020.09.09-08.45.21:641][552]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.09-08.45.21:646][552]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.09-08.45.21:667][552]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.09-08.45.21:667][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.09-08.45.21:670][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-08.45.21:670][552]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.09-08.45.21:670][552]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.09-08.45.21:670][552]LogWorld: UWorld::CleanupWorld for MainLevelMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-08.45.21:670][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.09-08.45.21:703][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.09-08.45.21:703][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.09-08.45.21:711][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.09-08.45.21:759][552]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.09-08.45.21:774][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-08.45.21:780][552]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.09.09-08.45.21:868][553]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2020.09.09-08.45.50:065][ 26]LogEditorTransaction: Undo Move Node
+[2020.09.09-08.45.50:347][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.09-08.45.50:349][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.09-08.45.50:351][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.09-08.45.50:889][ 57]LogEditorTransaction: Undo Move Node
+[2020.09.09-08.45.51:189][ 57]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.09-08.45.51:191][ 57]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.09-08.45.51:192][ 57]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.09-08.45.51:778][102]LogEditorTransaction: Undo Delete current selection
+[2020.09.09-08.45.52:077][102]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.09-08.45.52:079][102]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.09-08.45.52:080][102]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.09-08.46.24:625][589]BlueprintLog: New page: Compile SK_Wolf_Blueprint
+[2020.09.09-08.46.24:635][589]LogBlueprint: Warning: [Compiler SK_Wolf_Blueprint] Set IsDead  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.09.09-08.46.24:635][589]LogBlueprint: Warning: [Compiler SK_Wolf_Blueprint] Set IsDead  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.09.09-08.46.25:086][589]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2020.09.09-08.46.26:801][712]BlueprintLog: New page: Compile SK_Wolf_Blueprint
+[2020.09.09-08.46.26:812][712]LogBlueprint: Warning: [Compiler SK_Wolf_Blueprint] Set IsDead  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.09.09-08.46.26:812][712]LogBlueprint: Warning: [Compiler SK_Wolf_Blueprint] Set IsDead  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.09.09-08.46.27:250][712]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.09.09-08.46.43:264][911]LogEditorTransaction: Undo Create Pin Link
+[2020.09.09-08.46.43:555][911]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.09-08.46.43:557][911]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.09-08.46.43:558][911]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.09-08.46.43:988][929]LogEditorTransaction: Undo Create Pin Link
+[2020.09.09-08.46.44:286][929]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.09-08.46.44:288][929]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.09-08.46.44:290][929]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.09-08.47.19:180][699]BlueprintLog: New page: Compile SK_Wolf_Blueprint
+[2020.09.09-08.47.19:652][699]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2020.09.09-08.47.20:179][723]LogSavePackage: Moving '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Saved/SK_Wolf_Blueprint425AA8FF4791BDA572594B9A886E40CC.tmp' to '../../../../../../Users/j.six/Documents/UnrealPlatformerBluePrint/PlatformerBP/Content/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint.uasset'
+[2020.09.09-08.47.20:212][723]AssetCheck: New page: Asset Save: SK_Wolf_Blueprint
+[2020.09.09-08.47.20:212][723]LogContentValidation: Display: Validating Blueprint /Game/AnimalVarietyPack/Wolf/SK_Wolf_Blueprint.SK_Wolf_Blueprint
+[2020.09.09-08.47.21:504][817]LogTemp: Repeating last play command: Selected Viewport
+[2020.09.09-08.47.21:559][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.09-08.47.21:562][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.09-08.47.21:562][817]PIE: New page: PIE session: MainLevelMap (Sep 9, 2020, 12:47:21 PM)
+[2020.09.09-08.47.21:562][817]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.09-08.47.21:576][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014489s)
+[2020.09.09-08.47.21:578][817]LogAIModule: Creating AISystem for world MainLevelMap
+[2020.09.09-08.47.21:578][817]LogPlayLevel: PIE: World Init took: (0.001545s)
+[2020.09.09-08.47.21:578][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap (0.016213s)
+[2020.09.09-08.47.21:636][817]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2020.09.09-08.47.21:638][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.09-08.47.21:638][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.09-08.47.21:638][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.09-08.47.21:638][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.09-08.47.21:638][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.09-08.47.21:638][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.09-08.47.21:638][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.09-08.47.21:638][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.09-08.47.21:638][817]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.09-08.47.21:638][817]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.09-08.47.21:640][817]LogAudioMixer: Display: Using Audio Device Unknown
+[2020.09.09-08.47.21:643][817]LogInit: FAudioDevice initialized.
+[2020.09.09-08.47.21:650][817]LogLoad: Game class is 'Level1GM_C'
+[2020.09.09-08.47.21:652][817]LogScript: Warning: Script Msg: Divide by zero detected: -170.000015 / 0
+Script call stack:
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonBoris/Characters/Heroes/Boris/Boris_AnimBlueprint.Boris_AnimBlueprint_C:ExecuteUbergraph_Boris_AnimBlueprint
+
+[2020.09.09-08.47.21:653][817]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap.MainLevelMap up for play (max tick rate 0) at 2020.09.09-10.47.21
+[2020.09.09-08.47.21:654][817]LogWorld: Bringing up level for play took: 0.002746
+[2020.09.09-08.47.21:654][817]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2020.09.09-08.47.21:659][817]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap 0.481
+[2020.09.09-08.47.21:659][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.09-08.47.23:850][978]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonBoris/Characters/Heroes/Boris/Animations/LevelStart_Montage.LevelStart_Montage'
+[2020.09.09-08.47.30:283][502]LogBlueprintUserMessages: [Bumprt2_2] Boom
+[2020.09.09-08.47.33:720][788]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.09-08.47.33:739][788]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.09-08.47.33:760][788]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.09-08.47.33:760][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.09-08.47.33:763][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-08.47.33:763][788]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainLevelMap
+[2020.09.09-08.47.33:763][788]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.09-08.47.33:763][788]LogWorld: UWorld::CleanupWorld for MainLevelMap, bSessionEnded=true, bCleanupResources=true
+[2020.09.09-08.47.33:764][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.09-08.47.33:798][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.09-08.47.33:799][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/MainLevelMap.MainLevelMap:PersistentLevel.MainLevelMap'
+[2020.09.09-08.47.33:805][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.09-08.47.33:855][788]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.09-08.47.33:867][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.09-08.47.33:873][788]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2020.09.09-08.47.33:948][789]LogPlayLevel: Display: Destroying online subsystem :Context_90
