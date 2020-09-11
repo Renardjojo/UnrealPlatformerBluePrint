@@ -1,5 +1,9 @@
 # UnrealPlatformerBluePrint
-Introduction to blueprint of unreal engine with simple platformer
+Introduction to blueprint of unreal engine with simple platformer.
+Project create with unreal 4.24.3.
+Command : 
+- WASD to move
+- Space to jump and restart
 
 ## TODO list (French)
 - Camera :
@@ -39,20 +43,20 @@ l’éditeur)
 
 - [x] L’ennemi de base n’aura qu’un point de vie
 
-- [ ] D’autres ennemis, plus avancés, auront 2 points de vie. S’ils sont blessés par le
+- [x] D’autres ennemis, plus avancés, auront 2 points de vie. S’ils sont blessés par le
 joueur ils retourneront se cacher vers leur point de spawn où ils pourront récupérer leur point de vie en restant immobile 5 secondes
 
-- [ ] Un ennemi tué laissera à sa place une coeur que le joueur pourra récupérer pour regagner un point de vie
+- [x] Un ennemi tué laissera à sa place une coeur que le joueur pourra récupérer pour regagner un point de vie
 
 - Collectibles :
-- [ ] Des coeurs seront réparties dans tout le niveau et seront droppées par les ennemis
+- [x] Des coeurs seront réparties dans tout le niveau et seront droppées par les ennemis
 tués. Le joueur pourra les ramasser en passant simplement dessus.
 
 - Niveau :
-- [ ] vous devez créer un niveau procurant une boucle de jeux de 5 minutes min avec des
+- [x] vous devez créer un niveau procurant une boucle de jeux de 5 minutes min avec des
 plateformes mais aussi des zones de dégâts (pointes, lave, feu…)
 
-- [ ] Des bumpers seront placés à des endroits judicieux afin de permettre d’accéder à
+- [x] Des bumpers seront placés à des endroits judicieux afin de permettre d’accéder à
 des plateformes en hauteur. Lorsque le joueur entre en contact avec eux, il
 effectuera un rebond physique, soit dans une direction réglée dans l’actor bumper,
 soit en miroir de son déplacement initial.
@@ -61,9 +65,4 @@ soit en miroir de son déplacement initial.
 du niveau
 
 - HUD :
-- [ ] Un HUD, simple, indiquera le nombre de points de vie restants
-
-- Features additionnelles :
-- [ ] temps limité pour finir le niveau
-- [ ] Un tableau des meilleurs scores
-- [ ] Un ou des niveaux supplémentaires
+- [x] Un HUD, simple, indiquera le nombre de points de vie restants
